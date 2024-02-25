@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="first_text_example">First text example</string>
+    <string name="edit_message">edit_message</string>
+    <string name="button">Button</string>
+    <string name="enter_your_cvc_code_here">Enter your CVC code here</string>
+</resources>
